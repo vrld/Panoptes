@@ -8,7 +8,14 @@ Theme: Entire Game on One Screen
 
 ## Run
 
+#### Windows:
+
 Download and install [LÖVE](http://love2d.org/). Drag this *folder* onto love.exe.
+
+#### Linux, OSX:
+
+Install [LÖVE](http://love2d.org/). Run `love .` inside this folder.
+
 
 ## Play
 
